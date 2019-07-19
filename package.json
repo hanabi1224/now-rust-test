@@ -1,5 +1,5 @@
 {
-  "name": "@now/rust",
+  "name": "now-rust-test",
   "version": "0.2.5-hlm.1",
   "license": "MIT",
   "main": "./dist/index",
